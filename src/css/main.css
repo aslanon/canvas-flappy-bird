@@ -1,0 +1,11 @@
+body{
+  overflow:hidden;
+  display: flex;;
+  align-items: center;
+  justify-content: center;
+  background:#1e1e1e;
+  height:100vh;
+}
+canvas{
+  margin:auto;
+}
