@@ -6,7 +6,7 @@
 https://aslanon.github.io/canvas-flappy-bird/src/index
 
 
-<img src="https://raw.githubusercontent.com/aslanon/canvas-flappy-bird/master/statics/screenshot.png"></img>
+<img src="https://raw.githubusercontent.com/aslanon/canvas-flappy-bird/master/src/images/screenshot.png"></img>
 
 ## Getting Started
 
